@@ -50,11 +50,10 @@ const experiences = [
     date: "Jan 2022 - June 2022",
     icon: Briefcase,
     points: [
-      "Developed frontend components using React and modern JavaScript",
-      "Assisted in building RESTful APIs using Node.js",
+      "Developed two Desktop based application using Java, Swing, JWT, mysql",
       "Participated in code reviews and implemented feedback",
       "Created technical documentation for project components",
-      "Collaborated with senior developers on feature implementation",
+      "Collaborated with peers on feature implementation",
       "Gained practical experience in software development lifecycle"
     ]
   }
